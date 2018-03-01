@@ -1,0 +1,13 @@
+{
+  "name": "koosh/dispenser-demo",
+  "description": "Dispenser demo",
+  "minimum-stability": "dev",
+  "require-dev": {
+    "phpunit/phpunit": "7.0.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "CashDispenser\\": "src/"
+    }
+  }
+}
